@@ -1,3 +1,6 @@
+Project is buit after the final version of Angular2 was released.
+It inclueds all the latest changes of Angular2.
+
 1) Open a command prompt in the project's root directory (APM-2)
 
 2) Type: `npm install`
